@@ -35,7 +35,7 @@ Since the dataset is composed of 96.5% normal transactions and of only 3.5% frau
 For that we need an autoencoder which is an unsupervised Artificial Neural Network that attempts to encode the data by compressing it into the lower dimensions (bottleneck layer or code) and then decoding the data to reconstruct the original input.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65224852/143266252-dc436926-74f5-434a-9326-0777b4f876bf.png">
+<img src="https://user-images.githubusercontent.com/65224852/143266328-39932c78-64f8-49a5-bb7e-deb7226b7cec.png">
 </p>
 
 Then we compute the reconstruction error between the prediction and the original data with a Mean Squared Error.
