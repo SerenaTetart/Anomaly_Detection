@@ -3,7 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Requirements](#requirements)
-* [Project 1: Fingerprint recognition](#project-1---fingerprint-recognition-siamese-network)
+* [Project details](#project-details)
 
 ## General info
 
@@ -23,3 +23,5 @@ Libraries:
 * Pandas
 * Tensorflow
 * Keras
+
+## Project details
