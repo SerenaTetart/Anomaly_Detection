@@ -13,7 +13,7 @@ The dataset is from Vesta Corporation (on kaggle) through the competition: IEEE-
 
 (https://www.kaggle.com/c/ieee-fraud-detection)
 
-The network is an encoder as fully connected layer with L1 regularisation and relu activations.
+The network is a fully connected layer with L1 regularisation and relu activations.
 
 ## Requirements
 
