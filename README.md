@@ -36,7 +36,7 @@ For that we need an autoencoder which is an unsupervised Artificial Neural Netwo
 
 <p align="center"> <b>Autoencoder Architecture</b> </p>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65224852/143266328-39932c78-64f8-49a5-bb7e-deb7226b7cec.png">
+<img src="https://user-images.githubusercontent.com/65224852/143266758-c5f101bc-1787-4694-a30c-596f8b5df599.png">
 </p>
 
 Then we compute the reconstruction error between the prediction and the original data with a Mean Squared Error.
