@@ -37,7 +37,7 @@ For that we need an autoencoder which is an unsupervised Artificial Neural Netwo
 <img src="https://user-images.githubusercontent.com/65224852/143266758-c5f101bc-1787-4694-a30c-596f8b5df599.png">
 </p>
 
-Then we compute the reconstruction error between the prediction and the original data with a Mean Squared Error.
+Then we compute the reconstruction error between the prediction and the original data with a Mean Squared Logarithmic Error.
 
 And finally we set a threshold error between normal and fraudulent transactions, normal transactions should be smaller and fraudulents bigger than the threshold.
 
