@@ -7,7 +7,7 @@
 
 ## General info
 
-This project goal is to classify fraudulent transactions from normal ones through the usage of unsupervised learning, autoencoder (anomaly detection) and data clustering.
+This project goal is to classify fraudulent transactions from normal ones through the usage of unsupervised learning, autoencoder/SVM (anomaly detection) and data clustering.
 
 The dataset is from Vesta Corporation (on kaggle) through the competition: <a href= https://www.kaggle.com/c/ieee-fraud-detection> IEEE-CIS Fraud Detection</a>
 
