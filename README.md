@@ -11,8 +11,6 @@ This project goal is to classify fraudulent transactions from normal ones throug
 
 The dataset is from Vesta Corporation (on kaggle) through the competition: <a href= https://www.kaggle.com/c/ieee-fraud-detection> IEEE-CIS Fraud Detection</a>
 
-The network is a fully connected layer with L1 regularisation and relu activations.
-
 The dataset is quite heavy, you might experience issues with your RAM.
 
 ## Requirements
