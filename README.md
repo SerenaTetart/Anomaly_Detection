@@ -23,7 +23,7 @@ Libraries:
 
 ## Project 1 - Fraud detection
 
-This project goal is to classify fraudulent transactions from normal ones through the usage of unsupervised learning and data clustering for anomaly detection.
+This project goal is to classify fraudulent transactions from normal ones.
 
 The dataset is from Vesta Corporation (on kaggle) through the competition: <a href= https://www.kaggle.com/c/ieee-fraud-detection> IEEE-CIS Fraud Detection</a>
 
