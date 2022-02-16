@@ -42,7 +42,7 @@ Then we compute the reconstruction error between the prediction and the original
 
 And finally we set a threshold error between normal and fraudulent transactions, normal transactions should be smaller and fraudulents bigger than the threshold.
 
-The results are 81.11% of True positive and 60.71% of True negative.
+The results are **81.11% of True positive and 60.71% of True negative.**
 
 Which mean frauds will be detected 60.71% of the time and normal transactions misclassified 18.89% of the time
 
