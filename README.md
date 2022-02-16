@@ -46,8 +46,6 @@ The results are 81.11% of True positive and 60.71% of True negative.
 
 Which mean frauds will be detected 60.71% of the time and normal transactions misclassified 18.89% of the time
 
-In order to improve it we'll use a One Class Support Vector Machine (OneClassSVM) in the next notebook.
-
 For more informations check the .ipynb file !
 
 ## Project 2 - Time serie anomaly detection
