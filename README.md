@@ -66,4 +66,4 @@ We'll train the algorithm on all data before January 2020, then we'll test it on
 <img src="https://user-images.githubusercontent.com/65224852/154252696-988e5726-808a-4167-abd3-ac5a2700ba27.png">
 </p>
 
-We can see that the loss goes up as the Bitcoin's price rise, everything past 2021 is an anomaly because events and market manipulation exist and thus the price change.
+We can see that the loss goes up as the Bitcoin's price rise, everything past 2021 is an anomaly because events and market manipulation exist and thus the price change in a random way.
