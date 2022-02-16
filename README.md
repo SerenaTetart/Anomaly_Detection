@@ -23,7 +23,7 @@ Libraries:
 
 ## Project 1 - Fraud detection
 
-This project goal is to classify transactions from a bank account as fraudulent or normal.
+In this project we will classify transactions from a bank account as fraudulent or normal.
 
 The dataset used is from Vesta Corporation (on kaggle) through the competition: <a href= https://www.kaggle.com/c/ieee-fraud-detection> IEEE-CIS Fraud Detection</a>
 
