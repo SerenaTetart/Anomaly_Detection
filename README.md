@@ -51,3 +51,7 @@ In order to improve it we'll use a One Class Support Vector Machine (OneClassSVM
 For more informations check the .ipynb file !
 
 ## Project 2 - Time serie anomaly detection
+
+For this project we'll apply the same idea as the last project: we make an autoencoder in order to compute a reconstruction error and we determine a threshold in order to detect anomalies in the time serie.
+
+The difference in this project is that we have a new dimension which is time.
