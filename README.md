@@ -53,3 +53,7 @@ For more informations check the .ipynb file !
 For this project we'll apply the same idea as the last one: we make an autoencoder in order to compute a reconstruction error and we determine a threshold in order to detect anomalies in the time serie.
 
 The difference in this project is that we have a new dimension which is time.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65224852/154252482-8e4c5c90-9d75-40f9-8a16-c44caacf7069.png">
+</p>
