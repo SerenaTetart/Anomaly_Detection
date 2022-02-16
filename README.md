@@ -1,17 +1,14 @@
-# Fraud_Detection
+# Anomaly_Detection
 
 ## Table of contents
 * [General info](#general-info)
 * [Requirements](#requirements)
-* [Project details](#project-details)
+* [Project 1: Fraud detection](#project-1---Fraud-detection)
+* [Project 2: Time serie anomaly detection](#project-2---Time-serie-anomaly-detection)
 
 ## General info
 
-This project goal is to classify fraudulent transactions from normal ones through the usage of unsupervised learning and data clustering for anomaly detection.
-
-The dataset is from Vesta Corporation (on kaggle) through the competition: <a href= https://www.kaggle.com/c/ieee-fraud-detection> IEEE-CIS Fraud Detection</a>
-
-The dataset is quite heavy, you might experience issues with your RAM.
+This repository goal is to learn how to detect anomalies within different types of data such as transactions from a bank account or time series with the usage of unsupervised learning, novelty detection and data clustering.
 
 ## Requirements
 
@@ -24,7 +21,13 @@ Libraries:
 * Tensorflow
 * Keras
 
-## Project details
+## Project 1 - Fraud detection
+
+This project goal is to classify fraudulent transactions from normal ones through the usage of unsupervised learning and data clustering for anomaly detection.
+
+The dataset is from Vesta Corporation (on kaggle) through the competition: <a href= https://www.kaggle.com/c/ieee-fraud-detection> IEEE-CIS Fraud Detection</a>
+
+*The dataset is quite heavy, you might experience issues with your RAM.*
 
 Since the dataset is composed of 96.5% normal transactions and of only 3.5% fraudulent ones we are going to make an Anomaly Detection algorithm based on Novelty Detection (we train only on normal transactions).
 
@@ -46,3 +49,5 @@ Which mean frauds will be detected 60.71% of the time and normal transactions mi
 In order to improve it we'll use a One Class Support Vector Machine (OneClassSVM) in the next notebook.
 
 For more informations check the .ipynb file !
+
+## Project 2 - Time serie anomaly detection
