@@ -37,7 +37,7 @@ Which mean frauds will be detected 60.71% of the time and normal transactions mi
 
 ## Project 1B - Fraud detection using XGBoost
 
-Depending on the situation autoencoders are not always the best solution, here we can improve the results by using decision trees, in fact decision trees are better in supervised problems where we know the key features to classify from.
+Depending on the situation using autoencoders is not always the best solution, here we can improve the results by using decision trees, in fact decision trees are better in supervised problems where we know the key features to classify from.
 
 <p align="center"> <b>Exemple of Decision Tree</b> </p>
 <p align="center">
