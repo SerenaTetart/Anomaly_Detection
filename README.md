@@ -39,15 +39,20 @@ Which mean frauds will be detected 60.71% of the time and normal transactions mi
 
 Depending on the situation autoencoders are not always the best solution, here we can improve the results by using decision trees, in fact decision trees are better in supervised problems where we know the key features to classify from.
 
+<p align="center"> <b>Exemple of Decision Tree</b> </p>
+<p align="center">
+<img src="https://www.nvidia.com/content/dam/en-zz/Solutions/glossary/data-science/xgboost/img-2.png">
+</p>
+
 Here we will study in particular XGBoost which is a Gradient Boosting Decision Tree.
 
 A Gradient Boosting Decision Trees (GBDT) is a decision tree ensemble learning algorithm similar to random forest, for classification and regression. Ensemble learning algorithms combine multiple machine learning algorithms to obtain a better model.
 
 GBDTs iteratively train an ensemble of shallow decision trees, with each iteration using the error residuals of the previous model to fit the next model.
 
-<p align="center"> <b>Exemple of Decision Tree</b> </p>
+<p align="center"> <b>Gradient Boosting</b> </p>
 <p align="center">
-<img src="https://www.nvidia.com/content/dam/en-zz/Solutions/glossary/data-science/xgboost/img-2.png">
+<img src="https://user-images.githubusercontent.com/65224852/169907322-895d07bc-7ef1-4144-a18b-2ef550f66b4d.png">
 </p>
 
 With this model we obtain **96.93% of True positive and 89.31% of True Negative** which is way better than the autoencoder.
