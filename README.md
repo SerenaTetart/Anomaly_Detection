@@ -2,9 +2,9 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Project 1: Fraud detection using Autoencoder](#project-1---Fraud-detection-using-Autoencoder)
-* [Project 1B: Fraud detection using XGBoost](#project-1---Fraud-detection-using-XGBoost)
-* [Project 2: Time serie anomaly detection](#project-2---Time-serie-anomaly-detection)
+* [Project 1: Fraud detection using Autoencoder](#project-1---fraud-detection-using-autoencoder)
+* [Project 1B: Fraud detection using XGBoost](#project-1---fraud-detection-using-xgboost)
+* [Project 2: Time serie anomaly detection](#project-2---time-serie-anomaly-detection)
 
 ## General info
 
