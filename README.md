@@ -2,26 +2,15 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Requirements](#requirements)
-* [Project 1: Fraud detection](#project-1---Fraud-detection)
+* [Project 1: Fraud detection using Autoencoder](#project-1---Fraud-detection-using-Autoencoder)
+* [Project 1B: Fraud detection using XGBoost](#project-1---Fraud-detection-using-XGBoost)
 * [Project 2: Time serie anomaly detection](#project-2---Time-serie-anomaly-detection)
 
 ## General info
 
 This repository goal is to learn how to detect anomalies within different types of data such as transactions from a bank account or time series with the usage of unsupervised learning, novelty detection and data clustering.
 
-## Requirements
-
-The basic libraries for machine learning 😃
-
-Libraries:
-* Scikit-learn
-* Numpy
-* Pandas
-* Tensorflow
-* Keras
-
-## Project 1 - Fraud detection
+## Project 1 - Fraud detection using Autoencoder
 
 In this project we will classify transactions from a bank account as fraudulent or normal.
 
@@ -46,7 +35,11 @@ The results are **81.11% of True positive and 60.71% of True negative.**
 
 Which mean frauds will be detected 60.71% of the time and normal transactions misclassified 18.89% of the time
 
-For more informations check the .ipynb file !
+## Project 1B - Fraud detection using XGBoost
+
+Depending on the situation autoencoders are not always the best solution, here we can improve the results by using decisions trees, in particular XGBoost which is a gradient boosted tree, in fact decision trees are better in supervised problems where we know the key features to classify from.
+
+With this model we obtain **96.93% of True positive and 89.31% of True Negative** which is way better than the autoencoder.
 
 ## Project 2 - Time serie anomaly detection
 
