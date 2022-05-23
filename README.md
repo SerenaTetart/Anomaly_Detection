@@ -57,9 +57,9 @@ GBDTs iteratively train an ensemble of shallow decision trees, with each iterati
 
 With this model we obtain **96.93% of True positive and 89.31% of True Negative** which is way better than the autoencoder.
 
-## Project 2 - Time serie anomaly detection
+## Project 2 - Time series anomaly detection
 
-For this project we'll apply the same idea as the last one: we make an autoencoder in order to compute a reconstruction error and we determine a threshold in order to detect anomalies in the time serie.
+For this project we'll apply the same idea as the first project: we make an autoencoder in order to compute a reconstruction error and we determine a threshold in order to detect anomalies in the time serie.
 
 The difference in this project is that we have a new dimension which is time.
 
