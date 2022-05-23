@@ -37,9 +37,11 @@ Which mean frauds will be detected 60.71% of the time and normal transactions mi
 
 ## Project 1B - Fraud detection using XGBoost
 
-Depending on the situation autoencoders are not always the best solution, here we can improve the results by using decision trees, in particular XGBoost which is a gradient boosted tree, in fact decision trees are better in supervised problems where we know the key features to classify from.
+Depending on the situation autoencoders are not always the best solution, here we can improve the results by using decision trees, in fact decision trees are better in supervised problems where we know the key features to classify from.
 
+Here we will study in particular XGBoost which is a Gradient Boosting Decision Tree.
 
+A Gradient Boosting Decision Trees (GBDT) is a decision tree ensemble learning algorithm similar to random forest, for classification and regression. Ensemble learning algorithms combine multiple machine learning algorithms to obtain a better model.
 
 With this model we obtain **96.93% of True positive and 89.31% of True Negative** which is way better than the autoencoder.
 
