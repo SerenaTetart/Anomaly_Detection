@@ -46,7 +46,7 @@ Depending on the situation using autoencoders is not always the best solution, h
 
 Here we will study in particular XGBoost which is a Gradient Boosting Decision Tree.
 
-A Gradient Boosting Decision Trees (GBDT) is a decision tree ensemble learning algorithm similar to random forest, for classification and regression. Ensemble learning algorithms combine multiple machine learning algorithms to obtain a better model.
+A Gradient Boosting Decision Tree (GBDT) is a decision tree ensemble learning algorithm similar to random forest, for classification and regression. Ensemble learning algorithms combine multiple machine learning algorithms to obtain a better model.
 
 GBDTs iteratively train an ensemble of shallow decision trees, with each iteration using the error residuals of the previous model to fit the next model.
 
